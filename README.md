@@ -18,6 +18,18 @@ This repo is the delivery mechanism: every tool below installs with a single
 
 ---
 
+## 🖥 Screenshots
+
+**agent-dash** — live agent dashboard (`agent-dash watch`):
+
+![agent-dash dashboard](docs/agent-dash-dashboard.png)
+
+**DevKit** — visual web dashboard (`dev serve` at `localhost:8080`):
+
+![DevKit dashboard](docs/devkit-dashboard.png)
+
+---
+
 ## 🚀 Quick start
 
 ```sh
